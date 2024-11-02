@@ -3,3 +3,5 @@ images
 data
 venv
 model
+bin
+test
