@@ -6,7 +6,7 @@ For which we have developed an model to track the motion of the animal.<br> By m
 We have worked with Three models namely:<br>1.Simple Unet  <br> 2.Unet CNN<br> 3.FPN with ResNet34    
 The respective Evaluation plots
 1. Simple Unet<br>
-![image(![image](https://github.com/user-attachments/assets/451a21b2-0467-4e9c-8224-b8173bda2f65)
+![image](https://github.com/user-attachments/assets/451a21b2-0467-4e9c-8224-b8173bda2f65)
 2. Unet CNN
 ![image](https://github.com/user-attachments/assets/59e5c650-0af2-4eb3-9400-b200c5dd00bf)
 3. FPN with ResNet34
