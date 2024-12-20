@@ -1,5 +1,7 @@
 # Optimize Animal Tranquilizer Aiming System
 
+https://github.com/user-attachments/assets/43c4bf6d-5754-47bc-aa2c-c2daaedee4ef
+
 Term project for the course: `Neural Networks and Deep Learning`. This project emphasizes improving the tracking of animals in real-time to ensure that the tranquilizer accurately aims at the target.
 
 The dataset used is [Oxford IIIT Pets dataset](https://www.robots.ox.ac.uk/~vgg/data/pets/). The dataset itself contains the respective maskings.
@@ -40,4 +42,7 @@ To showcase the results, we use images and videos to prove its effectiveness.
 ![image](https://github.com/user-attachments/assets/b661384b-78df-4abb-b18c-4e7230e3b786)
 
 ### ResNet34  
-    *Video to be added*
+
+https://github.com/user-attachments/assets/43c4bf6d-5754-47bc-aa2c-c2daaedee4ef
+
+
