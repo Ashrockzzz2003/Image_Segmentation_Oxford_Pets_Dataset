@@ -41,7 +41,7 @@ To showcase the results, we use images and videos to prove its effectiveness.
 
 ![image](https://github.com/user-attachments/assets/b661384b-78df-4abb-b18c-4e7230e3b786)
 
-### ResNet34  
+### FPN with ResNet34  
 
 https://github.com/user-attachments/assets/43c4bf6d-5754-47bc-aa2c-c2daaedee4ef
 
