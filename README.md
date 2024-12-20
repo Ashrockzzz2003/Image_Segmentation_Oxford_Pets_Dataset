@@ -1,5 +1,10 @@
 # Optimize Animal Tranquilizer Aiming System
 
+> [!Important]
+> What's interesting is that the training data is fully cats and dogs, but the model works with new animals too! 
+> The model is trained on the Oxford IIIT Pets dataset, which contains 37 classes of pets. 
+> The model can be used for any animal.
+
 https://github.com/user-attachments/assets/43c4bf6d-5754-47bc-aa2c-c2daaedee4ef
 
 Term project for the course: `Neural Networks and Deep Learning`. This project emphasizes improving the tracking of animals in real-time to ensure that the tranquilizer accurately aims at the target.
