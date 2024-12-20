@@ -11,9 +11,9 @@ The dataset used is [Oxford IIIT Pets dataset](https://www.robots.ox.ac.uk/~vgg/
 We have developed a model to track the motion of the animal by masking the animal to represent the trace of the tracking achieved by our model.
 
 We have worked with three models, namely:
-1. Simple Unet
-2. Unet CNN
-3. FPN with ResNet34
+1. Simple Unet `tensorflow` `trained in Google Colab TPU`
+2. Unet CNN `tensorflow` `trained in Google Colab TPU`
+3. FPN with ResNet34 `pytorch` `trained in Apple M2 Pro with Metal GPU 19 cores.`
 
 ## Evaluation Plots
 
