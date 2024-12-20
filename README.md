@@ -13,22 +13,24 @@ We have worked with three models, namely:
 2. Unet CNN
 3. FPN with ResNet34
 
-### Evaluation Plots
+## Evaluation Plots
 
-1. **Simple Unet**  
+### Simple Unet  
     ![image](https://github.com/user-attachments/assets/451a21b2-0467-4e9c-8224-b8173bda2f65)
-2. **Unet CNN**  
+### Unet CNN  
     ![image](https://github.com/user-attachments/assets/59e5c650-0af2-4eb3-9400-b200c5dd00bf)
-3. **FPN with ResNet34**  
+### FPN with ResNet34  
     ![image](https://github.com/user-attachments/assets/0797877c-1fad-4ce7-bc32-1226ec20c6b2)
 
-### Model Comparison
+## Model Comparison
 
 ![image](https://github.com/user-attachments/assets/a81e1233-6c19-4bc1-8971-7237bae3fd4b)
 
+## Inference
+
 To showcase the results, we use images and videos to prove its effectiveness.
 
-1. **Unet CNN**  
+### Unet CNN  
     ![image](https://github.com/user-attachments/assets/b661384b-78df-4abb-b18c-4e7230e3b786)
-2. **ResNet34**  
+### ResNet34  
     *Video to be added*
